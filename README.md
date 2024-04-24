@@ -8,6 +8,6 @@ As the increasing heat patterns in the world become hazard and disaster events, 
 This study will first establish a corpus from the “documents and publications” related to heat wave hazard.  Then, the Latent Dirichlet Allocation (LDA) technique will be utilized on this corpus to identify the impacts of heat waves, actions for mitigation & adaptation including their location, and vulnerable groups. The study will use the coherence score to evaluate the relevance of the topics. 
 
 The main research questions that will guide this objective are:
-•	How to establish a corpus using documents aiming to mitigate the impacts of heat waves?
-•	How to identify the topics/characteristics from the documents?
-•	How can these documents inform the development of comprehensive heat wave mitigation strategies for policymakers?
+1. How to establish a corpus using documents aiming to mitigate the impacts of heat waves?
+2. How to identify the topics/characteristics from the documents?
+3. How can these documents inform the development of comprehensive heat wave mitigation strategies for policymakers?
