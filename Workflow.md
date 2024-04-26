@@ -12,3 +12,11 @@ The pipeline starts with standardizing and cleaning the extarcted text. Then, to
 *Iteration function*
 
 Iteration function goes through each document & page and applies the preprocessing pipeline. Then, the preprocessed text is stored in a dictionary named docs. Each document is given a unique name (e.g., doc1, doc2, ...) based on the length of the dictionary. The preprocessed text is stored as a list under the document name. 
+
+*Creating token dictionary*
+
+Each token in the sublist of doc dictionary is iterated and assigned unique IDs. 
+
+*Creating a Bag-of-Words (BoW) representations*
+
+BoW representations are created to represent unique token (word) in the vocabulary, the frequency of occurrence of that token in the document. Thus, inputs for LDA would be defined. 
