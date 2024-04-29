@@ -13,6 +13,8 @@ The pipeline starts with standardizing and cleaning the extarcted text. Then, to
 
 (!) Some compound words are displayed as two or more seprate words.
 
+(!) Token lists are at different lengths due to non-standardized structure of the dataset. 
+
 **Iteration function**
 
 Iteration function goes through each document & page and applies the preprocessing pipeline. Then, the preprocessed text is stored in a dictionary named docs. Each document is given a unique name (e.g., doc1, doc2, ...) based on the length of the dictionary. The preprocessed text is stored as a list under the document name. 
