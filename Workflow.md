@@ -33,6 +33,10 @@ DTM is created to provide a structured representation of the text data.
 
 **N-grams**
 
-Before going into LDA, n-grams were created to make sense of the collocations, syntactic patterns, and grammatical structures that structure the context.
+Before going into LDA, n-grams were created to make sense of the collocations, syntactic patterns, and grammatical structures that structure the context. An n-gram model involving 3 words was defined to have a better understanding regarding the context that these words establish. 
 
 ***LDA model**
+
+An LDA model was established to identify major categories. 
+
+(!) In the n-grams model, it is possible to observe some relationships. For example, according to this result "('escalate', 'bushfire', 'heat') ('bushfire', 'heat', 'drought')" it is possible to observe the relationship between heat, drought, and bushfire which can be categorized under the "environmental impacts of heat waves". However, this relationship does not exist in the LDA model.
