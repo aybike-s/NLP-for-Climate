@@ -34,3 +34,5 @@ DTM is created to provide a structured representation of the text data.
 **N-grams**
 
 Before going into LDA, n-grams were created to make sense of the collocations, syntactic patterns, and grammatical structures that structure the context.
+
+***LDA model**
