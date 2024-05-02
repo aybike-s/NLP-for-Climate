@@ -26,15 +26,15 @@ Each token in the sublist of doc dictionary is iterated and assigned unique IDs.
 
 BoW representations are created to represent unique token (word) in the vocabulary, the frequency of occurrence of that token in the document. Thus, inputs for LDA would be defined. 
 
-**Document term matrix**
+### Document term matrix
 
 DTM is created to provide a structured representation of the text data.
 
-**N-grams**
+### N-grams
 
 Before going into LDA, n-grams were created to make sense of the collocations, syntactic patterns, and grammatical structures that structure the context. An n-gram model involving 3 words was defined to have a better understanding regarding the context that these words establish. 
 
-**LDA model**
+### LDA model
 
 An LDA model was established to identify major categories. 
 
