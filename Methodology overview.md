@@ -2,10 +2,10 @@
 This is a project developed for the course "Automated Text Processing for Social Sciences" taught by Ali Hürriyetoğlu
 
 ## Problem statement
-As the increasing heat patterns in the world become hazard and disaster events, actions or policies are needed to protect lives, livelihoods, and assets. However, heat waves and ways to prevent their socio-economic-ecological-demographic effects are often neglected by the public and policymakers. Therefore, there is a need for more research and “documentation” (ENBEL, 2023), regarding the actions and harms to prevent further damage. So, the visibility of the impacts of heat waves and ways to mitigate as well as adapt must be enhanced to increase awareness among decision-makers, provide guidance, and propose policy solutions. 
+As the increasing heat patterns in the world become hazard and disaster events, actions or policies are needed to protect lives, livelihoods, and assets. However, heat waves and ways to prevent their socio-economic-ecological-demographic effects are often neglected by the public and policymakers. Therefore, there is a need for more research and “documentation” (ENBEL, 2023), regarding the actions and harms to prevent further damage. So, the visibility of the impacts of heat waves and ways to mitigate as well as adapt must be enhanced to increase awareness among decision-makers, provide guidance, and propose policy solutions.  
 
 ## Research objective
-This study will first establish a corpus from the “documents and publications” related to heat wave hazards.  Documents will be gathered from the Prevention Web (UNDRR) database. Then, the BERT Topic technique will be utilized on this corpus to identify the impacts of heat waves alongside actions for mitigation & adaptation observed in the corpus. The study will use the coherence score to evaluate the relevance of the topics. 
+This study will first establish a corpus from the documents related to extreme heat and heat waves.  Documents will be gathered from the Prevention Web (UNDRR) database. Then, the BERT Topic technique will be utilized on this corpus to identify the main topics that would give ideas about the impacts of heat waves alongside actions for mitigation & adaptation observed in the corpus. The study will use the coherence score to evaluate the relevance of the topics. 
 
 The main research questions that will guide this objective are:
 
