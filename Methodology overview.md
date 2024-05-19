@@ -9,9 +9,11 @@ This study will first establish a corpus from the “documents and publications�
 
 The main research questions that will guide this objective are:
 
-•	How to establish a corpus using documents aiming to mitigate the impacts of heat waves?
-•	How to identify the topics/characteristics from the documents?
-•	How can these documents inform the development of comprehensive heat wave mitigation strategies for policymakers?
+•How to establish a corpus using documents aiming to mitigate the impacts of heat waves?
+
+•How to identify the topics/characteristics from the documents?
+
+•How can these documents inform the development of comprehensive heat wave mitigation strategies for policymakers?
 
 This is an initial step in the establishment of a specialized corpus. As an initial step, it will focus on identifying recurrent issues, making inferences based on them, and providing a path for the further development of this research to become an officially recognized corpus. Therefore, the main analysis methods are identifying the context(s) in which the tokens exist and the main topics via topic modeling. 
 
