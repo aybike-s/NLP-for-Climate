@@ -1,4 +1,6 @@
-Please refer to the "Methodology overview" and "Workflow" files to learn about the research, steps involved, and results.
+Please refer to the "Methodology overview" and "Workflow" files to learn about the research and steps involved.
+
+Please refer to "Papers" section and "NLP-Final-Aybike Şahinoğlu" document for the full paper and results.
 
 Please refer to the "Codes" file to examine and run the codes. It would be better to run them on Google Collab.
 
