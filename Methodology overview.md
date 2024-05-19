@@ -8,6 +8,7 @@ As the increasing heat patterns in the world become hazard and disaster events, 
 This study will first establish a corpus from the “documents and publications” related to heat wave hazards.  Documents will be gathered from the Prevention Web (UNDRR) database. Then, the BERT Topic technique will be utilized on this corpus to identify the impacts of heat waves alongside actions for mitigation & adaptation observed in the corpus. The study will use the coherence score to evaluate the relevance of the topics. 
 
 The main research questions that will guide this objective are:
+
 •	How to establish a corpus using documents aiming to mitigate the impacts of heat waves?
 •	How to identify the topics/characteristics from the documents?
 •	How can these documents inform the development of comprehensive heat wave mitigation strategies for policymakers?
