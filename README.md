@@ -1,6 +1,4 @@
-Please refer to the "Methodology overview" and "Workflow" (Annex I) files to learn about the research and steps involved.
-
-Please refer to the "Paper" folder and "NLP-Final-Aybike Şahinoğlu" document for the full paper and results.
+Please refer to the "Methodology overview" and "NLP for climate" paper (Annex I) files to learn about the research and steps involved.
 
 Please refer to the "Codes" folder to examine and run the codes. It would be better to run them on Google Collab.
 
